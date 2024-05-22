@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @y0ussefElbrini
-- 👀 I’m an inspiring Data scientist
-- 🌱 I’m currently a full time project manager, and a part time Data scientist
+- 👀 I’m a Data Engineer
 
 
 <!---
