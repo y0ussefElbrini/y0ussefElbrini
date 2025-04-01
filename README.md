@@ -3,9 +3,9 @@
 
 
 
-🎯 **Data Engineer | Cloud & AI Enthusiast | Ex-Project Manager in Banking**
+🎯 **Data Consultant | Cloud & AI Enthusiast | Ex-Project Manager in Banking**
 
-I am a Data Engineer with a background in IT project management and strong business acumen, currently based in Paris, France. I specialize in building scalable data platforms and automating data workflows in both **cloud** and **on-premises** environments.
+I am a Data Consultant with a background in IT project management and strong business acumen, currently based in Paris, France. I specialize in building scalable data platforms and automating data workflows in both **cloud** and **on-premises** environments.
 
 Certified on **Google Cloud (ACE)** and trained at **Télécom Paris**, I bring together technical expertise in **Big Data & AI** with a deep understanding of business processes. My experience includes designing data pipelines with **Spark**, **Airflow**, and **BigQuery**, and contributing to AI-powered projects using **Vertex AI**.
 
