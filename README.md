@@ -1,8 +1,11 @@
-# 👋 Hi, I'm Youssef El Brini
+<!-- Banner full width -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0077b6&height=180&section=header&text=👋%20Hey%20there!%20I'm%20Youssef👨‍💻&fontSize=35&fontColor=ffffff&animation=fadeIn" alt="banner" style="width:100%;" />
 
-🎯 **Data Consultant | Cloud & AI Enthusiast | Ex-Project Manager in Banking**
 
-I am a Data Consultant with a background in IT project management and strong business acumen, currently based in Paris, France. I specialize in building scalable data platforms and automating data workflows in both **cloud** and **on-premises** environments.
+
+🎯 **Data Engineer | Cloud & AI Enthusiast | Ex-Project Manager in Banking**
+
+I am a Data Engineer with a background in IT project management and strong business acumen, currently based in Paris, France. I specialize in building scalable data platforms and automating data workflows in both **cloud** and **on-premises** environments.
 
 Certified on **Google Cloud (ACE)** and trained at **Télécom Paris**, I bring together technical expertise in **Big Data & AI** with a deep understanding of business processes. My experience includes designing data pipelines with **Spark**, **Airflow**, and **BigQuery**, and contributing to AI-powered projects using **Vertex AI**.
 
@@ -36,14 +39,11 @@ Certified on **Google Cloud (ACE)** and trained at **Télécom Paris**, I bring 
 
 ---
 
-## 📫 Contact
+### 📫 Reach Out
 
-- 📧 [elbrini.youssef.4@gmail.com](mailto:elbrini.youssef.4@gmail.com)  
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/youssef-elbrini)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/youssef-elbrini)
+[![Gmail](https://img.shields.io/badge/Email-elbrini.youssef.4@gmail.com-red?logo=gmail&style=flat-square)](mailto:elbrini.youssef.4@gmail.com)
 
----
-
-_“Don’t be afraid of going slowly. Be afraid of standing still.”_
 
 
 
