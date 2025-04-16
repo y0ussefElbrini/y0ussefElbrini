@@ -3,7 +3,7 @@
 
 
 
-🎯 **Data Consultant | Cloud & AI Enthusiast | Ex-Project Manager in Banking**
+🎯 **DProject Manager | Cloud & AI Enthusiast**
 
 I am a Data Consultant with a background in IT project management and strong business acumen, currently based in Paris, France. I specialize in building scalable data platforms and automating data workflows in both **cloud** and **on-premises** environments.
 
